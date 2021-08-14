@@ -978,6 +978,8 @@
 				<string>No</string>
 				<key>ForceDisplayRotationInEFI</key>
 				<integer>0</integer>
+				<key>EnableTRIM</key>
+				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
