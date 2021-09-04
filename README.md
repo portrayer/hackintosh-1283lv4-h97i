@@ -13,14 +13,9 @@
 | macOS                  | Big Sur                               |
 
 
-## Functional
+## Credits
 
 - [x] ACPI by [SSDTTime](https://github.com/corpnewt/SSDTTime)
 - [x] Audio by [AppleALC](https://github.com/acidanthera/AppleALC) (alcid=5)
 - [x] WIFI by [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup) (brcmfx-country=#a)
 - [x] Bluetooth by [BrcmPatchRAM](https://github.com/RehabMan/OS-X-BrcmPatchRAM) and [nickhx from osxlatitude](https://osxlatitude.com/forums/topic/11540-dw1820a-the-general-troubleshooting-thread/page/10/)
-- [x] iMessage / FaceTime / Airdrop / Handoff
-
-## Issues
-
-- monitor hotplug not work
