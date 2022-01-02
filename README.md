@@ -9,7 +9,7 @@
 | Audio                  | ALC662                                |
 | GPU                    | Intel Iris Pro Graphics P6300         |
 | RAM                    | 16G DDR3 1866 (8G * 2)                |
-| Wireless & Bluetooth   | DW1820A                               |
+| Wireless & Bluetooth   | Intel 3168NGW                         |
 | macOS                  | Big Sur & Monterey                    |
 
 
@@ -17,5 +17,4 @@
 
 - [x] ACPI by [SSDTTime](https://github.com/corpnewt/SSDTTime)
 - [x] Audio by [AppleALC](https://github.com/acidanthera/AppleALC) (alcid=5)
-- [x] WIFI by [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup) (brcmfx-country=#a)
-- [x] Bluetooth by [BrcmPatchRAM](https://github.com/acidanthera/BrcmPatchRAM) and [nickhx from osxlatitude](https://osxlatitude.com/forums/topic/11540-dw1820a-the-general-troubleshooting-thread/page/10/)
+- [x] Wireless & Bluetooth by [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm)
