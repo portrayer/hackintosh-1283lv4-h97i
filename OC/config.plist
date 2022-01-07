@@ -272,11 +272,6 @@
                     <key>layout-id</key>
                     <data>BQAAAA==</data>
                 </dict>
-                <key>PciRoot(0x0)/Pci(0x1C,0x4)/Pci(0x0,0x0)</key>
-                <dict>
-                    <key>pci-aspm-default</key>
-                    <data>AA==</data>
-                </dict>
                 <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
